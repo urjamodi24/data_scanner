@@ -1,6 +1,7 @@
-Here's how to structure your `README.md` file for your project, which includes a diagram and instructions to set up and run the project locally.
 
-### Example of `README.md`
+
+![image](https://github.com/user-attachments/assets/31ba1b51-26a1-4206-a930-b75a73150037)
+
 
 ```markdown
 # Sensitive Data Detection Tool
