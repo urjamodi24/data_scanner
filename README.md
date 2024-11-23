@@ -184,29 +184,8 @@ GET http://127.0.0.1:5000/files
     ]
   }
 ]
-```
 
-## Troubleshooting
 
-- **Error: `ModuleNotFoundError`**: Make sure to activate your virtual environment and install the dependencies using `pip install -r requirements.txt`.
-- **Database Issues**: If the database tables are not created correctly, try deleting `data.db` and running `python app.py` again to regenerate the database.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-### Explanation:
-
-1. **System Overview**: A brief description of the tool and its functionality.
-2. **Database Design**: Explains the structure of your database tables.
-3. **System Diagram**: A simple text-based diagram to show how the system components interact.
-4. **Installation Instructions**: Detailed steps to set up and run the project locally.
-5. **API Endpoints**: Provides information on how to interact with the application via HTTP requests.
-6. **Troubleshooting**: Common issues and solutions.
-
-#### Notes:
-- If you want a more professional diagram, you can use tools like **draw.io** or **Lucidchart** to create a flow diagram or system architecture and embed it in the `README.md`.
-- Make sure that the database schema and any other specific details of your application are reflected in the `README`.
-
-Let me know if you need further modifications or help!
